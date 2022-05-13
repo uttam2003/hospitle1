@@ -1,0 +1,37 @@
+.logo
+{
+    height: 50px;
+    padding: 0;
+}
+.font-family
+{
+    
+    font-family: "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 11px;
+}
+.font-family1 
+{
+    font-family: "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 11px;
+    color: grey;
+    line-height: 30px;
+    background-color: white;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    align-items: center;
+}
+.freeze
+{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    background-color: white;
+    width: 100%;
+}
